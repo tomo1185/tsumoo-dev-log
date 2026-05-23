@@ -1,32 +1,14 @@
 ---
-layout: home
-
-hero:
-  name: Tsumoo
-  text: 今日の「できた」を積もう。
-  tagline: 入力は速く、完了は気持ちよく、振り返りは強く。Tsumoo の公開用開発ログです。
-  actions:
-    - theme: brand
-      text: 最新ログを見る
-      link: /dev-logs/2026-05/2026-05-22
-    - theme: alt
-      text: ロードマップを見る
-      link: /roadmap/project-roadmap
-
-features:
-  - title: 入力は速い
-    details: タイトルだけで ToDo を作成できる、使い始めの軽さを重視します。
-  - title: 完了は気持ちいい
-    details: 完了ボタンを押すこと自体が小さな達成感になる体験を目指します。
-  - title: 振り返りは強い
-    details: 今日と直近の積み上げを見返し、続けたくなる可視化を作ります。
+layout: doc
+sidebar: false
+aside: false
 ---
 
 <section class="tsumoo-hero">
   <p class="tsumoo-hero-kicker">PRODUCT DEV LOG</p>
   <h1>Tsumoo</h1>
   <p class="tsumoo-hero-lead">
-    Tsumoo は、毎日の小さな ToDo や習慣を手軽に記録し、完了した行動を気持ちよく積み上げるためのセルフマネジメントアプリです。
+    Tsumoo は、毎日の小さな ToDo や、仕事・学習で使う少し重いタスクを手軽に記録し、完了した行動を気持ちよく積み上げるためのセルフマネジメントアプリです。
   </p>
   <div class="tsumoo-hero-actions">
     <a class="tsumoo-button primary" href="/tsumoo-dev-log/dev-logs/2026-05/2026-05-22">最新ログを見る</a>
@@ -34,10 +16,35 @@ features:
   </div>
 </section>
 
+<div class="roadmap-snapshot large">
+  <div>
+    <p class="snapshot-label">フェーズ1 MVP</p>
+    <p class="snapshot-progress">進捗: 2 / 30件</p>
+  </div>
+  <div class="progress-track"><span style="width: 7%"></span></div>
+</div>
+
+<section class="roadmap-grid">
+  <div class="roadmap-card">
+    <span class="card-label">完了</span>
+    <strong>2件</strong>
+  </div>
+  <div class="roadmap-card">
+    <span class="card-label">次に取り組むこと</span>
+    <strong>TSUMOO-3</strong>
+  </div>
+  <div class="roadmap-card">
+    <span class="card-label">全体タスク</span>
+    <strong>30件</strong>
+  </div>
+</section>
+
+[全体ロードマップを見る](./roadmap/project-roadmap.md)
+
 <section class="tsumoo-intro-grid">
   <div>
     <h2>小さく始める</h2>
-    <p>フェーズ1では ToDo 作成、完了、直近7日間の振り返りに集中します。</p>
+    <p>フェーズ1ではチェック型 ToDo、軽量なステータス型 ToDo、完了、直近7日間の振り返りに集中します。</p>
   </div>
   <div>
     <h2>体験を磨く</h2>

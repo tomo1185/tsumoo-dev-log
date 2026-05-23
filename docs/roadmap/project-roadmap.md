@@ -1,21 +1,66 @@
+---
+pageClass: roadmap-page
+---
+
 # 全体ロードマップ
 
-Tsumoo の全体タスクを管理します。
+Tsumoo の開発計画を、公開用に整理したロードマップです。
 
-## 進捗
+Notion では詳細な進行管理を行い、このページでは公開用に流れが伝わる粒度でまとめます。
 
-0 / 18件 完了
+## サマリー
 
-<div class="roadmap-progress" aria-label="進捗 0%">
-  <span style="width: 0%"></span>
+<div class="roadmap-grid">
+  <div class="roadmap-card">
+    <span class="card-label">完了</span>
+    <strong>2</strong>
+    <span>件</span>
+  </div>
+  <div class="roadmap-card">
+    <span class="card-label">進行中</span>
+    <strong>0</strong>
+    <span>件</span>
+  </div>
+  <div class="roadmap-card">
+    <span class="card-label">全体</span>
+    <strong>30</strong>
+    <span>予定タスク</span>
+  </div>
 </div>
 
-## 次に取り組むこと
+<div class="roadmap-snapshot large">
+  <div>
+    <p class="snapshot-label">フェーズ1: ToDo セルフマネジメント</p>
+    <p class="snapshot-progress">進捗: 2 / 30件</p>
+  </div>
+  <div class="progress-track"><span style="width: 6.7%"></span></div>
+</div>
 
-- TSUMOO-1 構想整理
-- TSUMOO-2 要件定義
-- TSUMOO-3 フェーズ1基本設計
+## 現在の進捗
+
+### 進行中
+
+- なし
+
+### 完了タスク
+
+- 2026年5月22日: **TSUMOO-2** フェーズ1要件定義
+- 2026年5月22日: **TSUMOO-1** Tsumoo構想整理
+
+## 次に取り組むタスク
+
+- **TSUMOO-3** フェーズ1基本設計
+- **TSUMOO-4** UI方針整理
+- **TSUMOO-5** 画面詳細設計
 
 ## 全体タスク一覧
 
 <RoadmapTable />
+
+## 補足
+
+タスク数は、設計や公開運用の整理に合わせて増減する可能性があります。
+
+開始予定日と期限は、1日2時間前後の作業時間を前提に、数日分の余裕を持たせて設定しています。
+
+デプロイは VPS を前提に、手動または最小限の運用手順で管理します。
