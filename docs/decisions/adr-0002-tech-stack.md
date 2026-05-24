@@ -11,8 +11,17 @@ Tsumoo の技術スタックは、次の構成を採用する。
 - フロントエンド: Next.js / TypeScript
 - バックエンド: Laravel / PHP
 - データベース: MySQL
-- 認証: Laravel Sanctum / Laravel Fortify / Laravel Socialite
+- 認証: Laravel 標準の認証機能と外部認証連携を利用する
 - ローカル開発環境: Docker
+
+## バージョン方針
+
+- Next.js 16.2 系の最新パッチ
+- TypeScript 5 系
+- Laravel 13 系
+- PHP 8.3 以上
+- MySQL 8.4 LTS
+- Docker Engine 29 系を参考にする
 
 ## 理由
 
@@ -25,4 +34,4 @@ Tsumoo の技術スタックは、次の構成を採用する。
 
 Tsumoo はフェーズ1では機能領域を広げすぎないため、技術スタックは安定した構成を使いつつ、実装の複雑さは必要最小限に抑える。
 
-本番環境は VPS を前提とし、GitHub Actions はフェーズ2以降も利用しない。AWS はフェーズ2以降の候補として扱うが、デプロイ自動化が必要になった場合も GitHub Actions 以外の手段を検討する。
+本番環境とデプロイ方式は、運用負荷と安全性のバランスを見ながら、非公開の設計書側で具体化する。
