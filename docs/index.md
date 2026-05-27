@@ -19,19 +19,19 @@ aside: false
 <div class="roadmap-snapshot large">
   <div>
     <p class="snapshot-label">フェーズ1 MVP</p>
-    <p class="snapshot-progress">進捗: 7 / 30件</p>
+    <p class="snapshot-progress">進捗: 6 / 30件</p>
   </div>
-  <div class="progress-track"><span style="width: 23.3%"></span></div>
+  <div class="progress-track"><span style="width: 20%"></span></div>
 </div>
 
 <section class="roadmap-grid">
   <div class="roadmap-card">
     <span class="card-label">完了</span>
-    <strong>7件</strong>
+    <strong>6件</strong>
   </div>
   <div class="roadmap-card">
-    <span class="card-label">次に取り組むこと</span>
-    <strong>TSUMOO-8</strong>
+    <span class="card-label">進行中</span>
+    <strong>TSUMOO-7</strong>
   </div>
   <div class="roadmap-card">
     <span class="card-label">全体タスク</span>
