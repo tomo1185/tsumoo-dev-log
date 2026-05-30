@@ -11,7 +11,7 @@ aside: false
     Tsumoo は、毎日の小さな ToDo や、仕事・学習で使う少し重いタスクを手軽に記録し、完了した行動を気持ちよく積み上げるためのセルフマネジメントアプリです。
   </p>
   <div class="tsumoo-hero-actions">
-    <a class="tsumoo-button primary" href="/tsumoo-dev-log/dev-logs/2026-05/2026-05-29">最新ログを見る</a>
+    <a class="tsumoo-button primary" href="/tsumoo-dev-log/dev-logs/2026-05/2026-05-30">最新ログを見る</a>
     <a class="tsumoo-button secondary" href="/tsumoo-dev-log/roadmap/project-roadmap">ロードマップを見る</a>
   </div>
 </section>
@@ -19,23 +19,23 @@ aside: false
 <div class="roadmap-snapshot large">
   <div>
     <p class="snapshot-label">フェーズ1 MVP</p>
-    <p class="snapshot-progress">進捗: 9 / 30件</p>
+    <p class="snapshot-progress">進捗: 11 / 38件</p>
   </div>
-  <div class="progress-track"><span style="width: 30%"></span></div>
+  <div class="progress-track"><span style="width: 29%"></span></div>
 </div>
 
 <section class="roadmap-grid">
   <div class="roadmap-card">
     <span class="card-label">完了</span>
-    <strong>9件</strong>
+    <strong>11件</strong>
   </div>
   <div class="roadmap-card">
     <span class="card-label">進行中</span>
-    <strong>1件</strong>
+    <strong>0件</strong>
   </div>
   <div class="roadmap-card">
     <span class="card-label">全体タスク</span>
-    <strong>30件</strong>
+    <strong>38件</strong>
   </div>
 </section>
 
