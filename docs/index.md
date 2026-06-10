@@ -8,10 +8,10 @@ aside: false
   <p class="tsumoo-hero-kicker">PRODUCT DEV LOG</p>
   <h1>Tsumoo</h1>
   <p class="tsumoo-hero-lead">
-    Tsumoo は、毎日の小さな ToDo や、仕事・学習で使う少し重いタスクを手軽に記録し、完了した行動を気持ちよく積み上げるためのセルフマネジメントアプリです。
+    Tsumoo は、毎日の小さなタスクや、仕事・学習で使う少し重いタスクを手軽に記録し、完了した行動を気持ちよく積み上げるためのセルフマネジメントアプリです。
   </p>
   <div class="tsumoo-hero-actions">
-    <a class="tsumoo-button primary" href="/tsumoo-dev-log/dev-logs/2026-06/2026-06-09">最新ログを見る</a>
+    <a class="tsumoo-button primary" href="/tsumoo-dev-log/dev-logs/2026-06/2026-06-10">最新ログを見る</a>
     <a class="tsumoo-button secondary" href="/tsumoo-dev-log/roadmap/project-roadmap">ロードマップを見る</a>
   </div>
 </section>
@@ -19,23 +19,23 @@ aside: false
 <div class="roadmap-snapshot large">
   <div>
     <p class="snapshot-label">フェーズ1 MVP</p>
-    <p class="snapshot-progress">進捗: 19 / 38件</p>
+    <p class="snapshot-progress">進捗: 21 / 40件</p>
   </div>
-  <div class="progress-track"><span style="width: 50%"></span></div>
+  <div class="progress-track"><span style="width: 53%"></span></div>
 </div>
 
 <section class="roadmap-grid">
   <div class="roadmap-card">
     <span class="card-label">完了</span>
-    <strong>19件</strong>
+    <strong>21件</strong>
   </div>
   <div class="roadmap-card">
     <span class="card-label">次に着手</span>
-    <strong>共通化</strong>
+    <strong>認証処理</strong>
   </div>
   <div class="roadmap-card">
     <span class="card-label">全体タスク</span>
-    <strong>38件</strong>
+    <strong>40件</strong>
   </div>
 </section>
 
@@ -44,7 +44,7 @@ aside: false
 <section class="tsumoo-intro-grid">
   <div>
     <h2>小さく始める</h2>
-    <p>フェーズ1ではチェック型 ToDo、軽量なステータス型 ToDo、完了、直近7日間の振り返りに集中します。</p>
+    <p>フェーズ1ではチェック型タスク、軽量なステータス型タスク、完了、直近7日間の振り返りに集中します。</p>
   </div>
   <div>
     <h2>体験を磨く</h2>
