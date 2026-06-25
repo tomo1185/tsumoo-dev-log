@@ -11,7 +11,7 @@ aside: false
     Tsumoo は、毎日の小さなタスクや、仕事・学習で使う少し重いタスクを手軽に記録し、完了した行動を気持ちよく積み上げるためのセルフマネジメントアプリです。
   </p>
   <div class="tsumoo-hero-actions">
-    <a class="tsumoo-button primary" href="/tsumoo-dev-log/dev-logs/2026-06/2026-06-23">最新ログを見る</a>
+    <a class="tsumoo-button primary" href="/tsumoo-dev-log/dev-logs/2026-06/2026-06-24">最新ログを見る</a>
     <a class="tsumoo-button secondary" href="/tsumoo-dev-log/roadmap/project-roadmap">ロードマップを見る</a>
   </div>
 </section>
