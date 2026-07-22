@@ -11,7 +11,7 @@ export default defineConfig({
     nav: [
       { text: "トップ", link: "/" },
       { text: "ロードマップ", link: "/roadmap/project-roadmap" },
-      { text: "開発ログ", link: "/dev-logs/2026-07/2026-07-17" },
+      { text: "開発ログ", link: "/dev-logs/2026-07/2026-07-22" },
       { text: "公開方針", link: "/overview/repository-policy" }
     ],
     sidebar: [
@@ -47,6 +47,7 @@ export default defineConfig({
       {
         text: "開発ログ",
         items: [
+          { text: "2026年7月22日（水）", link: "/dev-logs/2026-07/2026-07-22" },
           { text: "2026年7月17日（金）", link: "/dev-logs/2026-07/2026-07-17" },
           { text: "2026年7月13日（月）", link: "/dev-logs/2026-07/2026-07-13" },
           { text: "2026年7月11日（土）", link: "/dev-logs/2026-07/2026-07-11" },
